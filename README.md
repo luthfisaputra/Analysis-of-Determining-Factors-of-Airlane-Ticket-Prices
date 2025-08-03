@@ -58,6 +58,10 @@ Rute dengan total harga tiket tertinggi adalah **Bangalore - Mumbai** dan **Bang
 ### 🔹 Maskapai dan Kelas
 Kelas bisnis dari maskapai seperti **Vistara** dan **Air India** memiliki harga rata-rata tertinggi.
 
+## 📊 Preview Dashboard
+<img width="1429" height="800" alt="image" src="https://github.com/user-attachments/assets/e9af81d3-327d-47c9-a476-df880006f1f4" />
+
+
 ---
 
 ## 📌 Insight dan Kesimpulan
